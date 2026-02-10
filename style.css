@@ -24,7 +24,7 @@ body{
   left:18px;
   width:284px;
   height:284px;
-  background:#9e1c1c;
+  background:radial-gradient(circle at 35% 35%, #b52828, #7f1616);
   border-radius:50%;
 }
 
