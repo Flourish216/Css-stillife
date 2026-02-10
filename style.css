@@ -30,8 +30,9 @@ body{
 
 .meat{
   position:absolute;
-  background:#4b2a1a;
+  background:linear-gradient(135deg, #5a321f, #3a1e12);
   border-radius:20px;
+  box-shadow:0 2px 4px rgba(0,0,0,.2);
 }
 
 .m1{
