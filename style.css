@@ -4,7 +4,7 @@ body{
   display:flex;
   justify-content:center;
   align-items:center;
-  background:#ddd;
+  background:radial-gradient(circle at top, #f1f1f1, #cfcfcf);
 }
 
 .bowl{
