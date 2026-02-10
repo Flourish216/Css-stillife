@@ -12,6 +12,8 @@ body{
   width:320px;
   height:320px;
   background:#f8f8f8;
+  box-sizing:border-box;
+  border:6px solid #ffffff;
   border-radius:50%;
   box-shadow:0 10px 24px rgba(0,0,0,.25);
 }
