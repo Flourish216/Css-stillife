@@ -28,6 +28,36 @@ body{
   border-radius:50%;
 }
 
+.oil{
+  position:absolute;
+  background:rgba(245, 196, 86, .55);
+  border-radius:50%;
+  box-shadow:0 0 4px rgba(245, 196, 86, .6);
+}
+
+.o1{
+  width:16px;
+  height:12px;
+  top:70px;
+  left:190px;
+  transform:rotate(12deg);
+}
+
+.o2{
+  width:12px;
+  height:9px;
+  top:130px;
+  left:210px;
+}
+
+.o3{
+  width:18px;
+  height:12px;
+  top:170px;
+  left:160px;
+  transform:rotate(-8deg);
+}
+
 .meat{
   position:absolute;
   background:linear-gradient(135deg, #5a321f, #3a1e12);
